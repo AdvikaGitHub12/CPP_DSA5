@@ -21,3 +21,13 @@ int main() {
     else if(num2 == num1 && num2 == num3) cout << "All The numbers are equal ";
     return 0;
 }
+
+//output
+/*
+Please Enter the First number : 89
+Please Enter the Second number : 42
+Please Enter the Third number : 91
+The number 91 Is the largest
+
+=== Code Execution Successful ===
+/*
