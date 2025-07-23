@@ -14,3 +14,11 @@ int main() {
     else cout<< "The number "<< num1 << " is odd";
     return 0;
 }
+
+//output
+/*
+Please enter first number : 53
+The number 53 is odd
+
+=== Code Execution Successful ===
+/*
