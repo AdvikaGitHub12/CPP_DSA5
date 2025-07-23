@@ -24,3 +24,11 @@ int main() {
 
     return 0;
 }
+
+//output
+/*
+Enter a character: i
+i is a vowel.
+
+=== Code Execution Successful ===
+/*
